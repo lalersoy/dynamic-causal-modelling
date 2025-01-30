@@ -12,8 +12,10 @@ Following findings from Seghier et al. (2011), intra-hemispheric modulations wer
 Models Tested
 Two DCM models were built to test the hypothesis.
 
-# Model 1: Intra-hemispheric feedback connections from lvF to ldF and rvF to rdF, modulated by pictures and words.
-# Model 2: Same as Model 1, but with an additional inter-hemispheric connection from ldF to rdF, modulated by both pictures and words.
+# Model 1: 
+Intra-hemispheric feedback connections from lvF to ldF and rvF to rdF, modulated by pictures and words.
+# Model 2: 
+Same as Model 1, but with an additional inter-hemispheric connection from ldF to rdF, modulated by both pictures and words.
 
 # Methods
 Parameter Matrices
