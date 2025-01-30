@@ -1,4 +1,4 @@
-# dynamic-causal-modelling
+# Dynamic Causal Modelling 
 
 # Introduction
 This repository contains code for performing Dynamic Causal Modeling (DCM) on fMRI data, focusing on four regions in the frontal gyrus: the left and right dorsal frontal gyri (ldF, rdF) and the left and right ventral frontal gyri (lvF, rvF). The analysis aims to test the hypothesis that words and pictures modulate the connectivity between these regions, particularly the connection from ldF to rdF, with a greater effect of pictures compared to words.
